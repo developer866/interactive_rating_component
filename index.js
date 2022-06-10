@@ -8,9 +8,6 @@ const btn = document.querySelectorAll(".rating");
 submit.addEventListener("click",()=>{
     container.style.display = "none";
     thanks.style.display = "block";
-    if(!(btn.selected)){
-        document.getElementById("selected").innerHTML = `Just give a rating`
-    }
 });
 
 rating1 = document.getElementById("rating1");
