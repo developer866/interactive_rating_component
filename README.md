@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt how to center div using postiin absolute.
+I learnt how to center div using postion absolute.
 
 To see how you can add code snippets, see below:
 ```css
