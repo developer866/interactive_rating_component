@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](: https://www.frontendmentor.io/solutions/html-and-css-ZN1BtOkrk_)
+- Live Site URL: [live site URL here](https://interactive-rating-card.netlify.app/)
 
 
 
